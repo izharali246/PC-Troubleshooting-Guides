@@ -5,7 +5,7 @@ This repository provides a **comprehensive, step-by-step troubleshooting guide**
 
 
 ## What’s Included?  
-- **Internet & Network Issues** – Troubleshoot Wifi or bluetooth connectivity problems, DNS errors, and other internet issues.  
+- **Internet & Network Issues** – Troubleshoot Wifi or Bluetooth connectivity problems, DNS errors, and other internet issues.  
 - **Boot & Startup Issues** – Fix OS boot failures, BSOD (Windows), and Kernel Panics (Linux/macOS).  
 - **Security & Malware** – Remove malware, enhance system security, and troubleshoot firewall issues.  
 - **Update & Patch Issues** – Resolve Windows Update errors, macOS software update failures, and Linux package update problems.  
